@@ -15,11 +15,17 @@ Efficient API Integration: Effectively manages API keys and handles CORS issues,
 **Deployment:** Heroku
 **Environment Management:** dotenv for secure management of API keys
 
-## Screenshots
-![Screenshot 2024-08-13 062942](https://github.com/user-attachments/assets/d95ce85d-086e-4979-b28c-18327dffa863) ![Screenshot 2024-08-13 062926](https://github.com/user-attachments/assets/bcc6afa6-c645-4ec9-b55b-a20ee2d4de92) 
+## Screenshot
 
-## DEMO##
-Uploading Untitled video - Made with Clipchamp (3).mp4…
+
+![Screenshot 2024-08-13 062926](https://github.com/user-attachments/assets/e7e19340-0fa5-463e-b371-ca62d81f97ff) ![Screenshot 2024-08-13 062942](https://github.com/user-attachments/assets/3f6996cb-ca47-4f1e-b283-52559a7fa8b8)
+
+
+
+## Demo
+
+
+
 
 ## How it works
 
